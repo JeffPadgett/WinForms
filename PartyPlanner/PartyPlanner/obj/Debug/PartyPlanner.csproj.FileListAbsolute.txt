@@ -1,0 +1,9 @@
+C:\Users\jp171\Desktop\Head_First_C#\PartyPlanner\PartyPlanner\bin\Debug\PartyPlanner.exe.config
+C:\Users\jp171\Desktop\Head_First_C#\PartyPlanner\PartyPlanner\obj\Debug\PartyPlanner.csprojResolveAssemblyReference.cache
+C:\Users\jp171\Desktop\Head_First_C#\PartyPlanner\PartyPlanner\obj\Debug\PartyPlanner.Form1.resources
+C:\Users\jp171\Desktop\Head_First_C#\PartyPlanner\PartyPlanner\obj\Debug\PartyPlanner.Properties.Resources.resources
+C:\Users\jp171\Desktop\Head_First_C#\PartyPlanner\PartyPlanner\obj\Debug\PartyPlanner.csproj.GenerateResource.Cache
+C:\Users\jp171\Desktop\Head_First_C#\PartyPlanner\PartyPlanner\bin\Debug\PartyPlanner.exe
+C:\Users\jp171\Desktop\Head_First_C#\PartyPlanner\PartyPlanner\bin\Debug\PartyPlanner.pdb
+C:\Users\jp171\Desktop\Head_First_C#\PartyPlanner\PartyPlanner\obj\Debug\PartyPlanner.exe
+C:\Users\jp171\Desktop\Head_First_C#\PartyPlanner\PartyPlanner\obj\Debug\PartyPlanner.pdb
