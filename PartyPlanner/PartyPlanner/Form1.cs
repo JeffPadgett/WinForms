@@ -13,7 +13,7 @@ namespace PartyPlanner
 {
     public partial class Form1 : Form
     {
-        private DinnerParty dinnerParty;
+        DinnerParty dinnerParty;
 
         public Form1()
         {

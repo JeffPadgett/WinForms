@@ -1,0 +1,10 @@
+C:\Users\jp171\source\repos\Farmer\Farmer\obj\Debug\Farmer.csprojAssemblyReference.cache
+C:\Users\jp171\source\repos\Farmer\Farmer\obj\Debug\Farmer.Form1.resources
+C:\Users\jp171\source\repos\Farmer\Farmer\obj\Debug\Farmer.Properties.Resources.resources
+C:\Users\jp171\source\repos\Farmer\Farmer\obj\Debug\Farmer.csproj.GenerateResource.cache
+C:\Users\jp171\source\repos\Farmer\Farmer\obj\Debug\Farmer.csproj.CoreCompileInputs.cache
+C:\Users\jp171\source\repos\Farmer\Farmer\bin\Debug\Farmer.exe.config
+C:\Users\jp171\source\repos\Farmer\Farmer\bin\Debug\Farmer.exe
+C:\Users\jp171\source\repos\Farmer\Farmer\bin\Debug\Farmer.pdb
+C:\Users\jp171\source\repos\Farmer\Farmer\obj\Debug\Farmer.exe
+C:\Users\jp171\source\repos\Farmer\Farmer\obj\Debug\Farmer.pdb
